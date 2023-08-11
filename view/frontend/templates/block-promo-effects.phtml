@@ -1,9 +1,9 @@
 <script>
-    require(['jquery'], function($) {
+    require(['jquery', 'YellowCard_JsBasic/js/fade-in-element'], function($, fadeInElement) {
         'use strict'
 
         $(function() {
-            console.log('block promo effects')
+            fadeInElement('.logo', 10000)
         })
     })
 </script>
