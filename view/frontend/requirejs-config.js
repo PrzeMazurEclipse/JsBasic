@@ -5,6 +5,6 @@ var config = {
         }
     },
     "paths": {
-        "vue": "https://unpkg.com/vue@3/dist/vue.global"
+        "vue": "https://cdn.jsdelivr.net/npm/vue@2/dist/vue"
     }
 };
