@@ -10,5 +10,12 @@ var config = {
             "https://cdn.jsdelivr.net/npm/vue@2/dist/vue",
             "YellowCard_JsBasic/js/vue"
         ]
+    },
+    "config": {
+        "mixins": {
+            "Magento_Ui/js/view/messages": {
+                "YellowCard_JsBasic/js/messages-mixin": true
+            }
+        }
     }
 };
