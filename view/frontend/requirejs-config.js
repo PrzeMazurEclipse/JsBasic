@@ -1,7 +1,8 @@
 var config = {
     "map": {
         "*": {
-            "fadeInElement": "YellowCard_JsBasic/js/fade-in-element"
+            "fadeInElement": "YellowCard_JsBasic/js/fade-in-element",
+            "Magento_Review/js/submit-review": "YellowCard_JsBasic/js/submit-review"
         }
     },
     "paths": {
